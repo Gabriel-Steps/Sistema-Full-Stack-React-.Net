@@ -1,6 +1,6 @@
-Sistema Full Stack - React & .NET
+# Sistema Full Stack - React & .NET
 
-📝 Descrição
+## 📝 Descrição
 
 Este sistema simula um hortifruti, permitindo operações aritméticas entre valores associados ao nome de frutas. Ele permite cadastro e login de usuários, criação de frutas com valores A e B, exclusão de frutas e exibição dos resultados das operações de multiplicação e divisão desses valores.
 
