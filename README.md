@@ -108,10 +108,3 @@ cd Sistema-Full-Stack-React-.Net/fronthortifruti
 npm run dev
 ```
 Após a execução, o terminal exibirá o servidor local onde o projeto estará rodando.
-
-## 🎥 Vídeo de Apresentação
-
-Fiz um vídeo mostrando o funcionamento da aplicação e o código-fonte. O vídeo foi resumido para não ultrapassar 20 minutos, mas convido vocês a assistirem!
-
-📌 Link do vídeo: [Vídeo](https://youtu.be/DbiVFNMJSbQ)
-
