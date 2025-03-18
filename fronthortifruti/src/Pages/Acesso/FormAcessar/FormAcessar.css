@@ -1,0 +1,74 @@
+.formAcesso{
+    background-color: #FFFFFF;
+    width: 30%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 6rem;
+
+    label{
+        font-size: 25px;
+        font-weight: 500;
+        letter-spacing: 0.1rem;
+        margin: 10px 10px;
+        color: #8cf57e;
+    }
+
+    input[type="email"], input[type="password"]{
+        width: 90%;
+        padding: 10px;
+        margin: 10px 10px;
+        font-size: 15px;
+        border: 1px solid #0000002c;
+    }
+}
+
+.containerButtonsForm{
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+
+    button{
+        width: 35%;
+        border-radius: 15px;
+        height: 4rem;
+        font-size: 27px;
+        font-weight: 500;
+        letter-spacing: 0.1rem;
+        background-color: transparent;
+        border: 1px solid #0000002f;
+    }
+
+    :first-child{
+        color: #000000c4;
+        transition: 0.5s;
+    }
+
+    :first-child:hover{
+        color: #0000007e;
+        box-shadow: 1px 1px 10px #0000001c;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+
+    :last-child{
+        background-color: #8cf57e;
+        border: 1px solid #6cf55a8c;
+        font-weight: bold;
+        color: #FFFFFF;
+        transition: 0.5s;
+    }
+
+    :last-child:hover{
+        border: 1px solid #b8faaf8c;
+        background-color: #9bf08f;
+        box-shadow: 1px 1px 10px #8cf57e75;
+        transition: 0.5s;
+        cursor: pointer;
+    }
+}

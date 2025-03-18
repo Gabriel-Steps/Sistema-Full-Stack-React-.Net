@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AA478-1E89-4FA1-BCAC-5974E611865C}|SistemaHortifruti.Application\\SistemaHortifruti.Application.csproj|c:\\projetos\\processoseletivo\\sistemahortifruti\\sistemahortifruti.application\\commands\\createfruta\\createfrutacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0AA478-1E89-4FA1-BCAC-5974E611865C}|SistemaHortifruti.Application\\SistemaHortifruti.Application.csproj|solutionrelative:sistemahortifruti.application\\commands\\createfruta\\createfrutacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305BAB36-72E5-489C-ADC8-4395029F0383}|SistemaHortifruti.API\\SistemaHortifruti.API.csproj|c:\\projetos\\processoseletivo\\sistemahortifruti\\sistemahortifruti.api\\controllers\\frutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305BAB36-72E5-489C-ADC8-4395029F0383}|SistemaHortifruti.API\\SistemaHortifruti.API.csproj|solutionrelative:sistemahortifruti.api\\controllers\\frutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305BAB36-72E5-489C-ADC8-4395029F0383}|SistemaHortifruti.API\\SistemaHortifruti.API.csproj|c:\\projetos\\processoseletivo\\sistemahortifruti\\sistemahortifruti.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305BAB36-72E5-489C-ADC8-4395029F0383}|SistemaHortifruti.API\\SistemaHortifruti.API.csproj|solutionrelative:sistemahortifruti.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AA478-1E89-4FA1-BCAC-5974E611865C}|SistemaHortifruti.Application\\SistemaHortifruti.Application.csproj|c:\\projetos\\processoseletivo\\sistemahortifruti\\sistemahortifruti.application\\queries\\getusuario\\getusuarioqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0AA478-1E89-4FA1-BCAC-5974E611865C}|SistemaHortifruti.Application\\SistemaHortifruti.Application.csproj|solutionrelative:sistemahortifruti.application\\queries\\getusuario\\getusuarioqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateFrutaCommand.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\SistemaHortifruti.Application\\Commands\\CreateFruta\\CreateFrutaCommand.cs",
+              "RelativeDocumentMoniker": "SistemaHortifruti.Application\\Commands\\CreateFruta\\CreateFrutaCommand.cs",
+              "ToolTip": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\SistemaHortifruti.Application\\Commands\\CreateFruta\\CreateFrutaCommand.cs",
+              "RelativeToolTip": "SistemaHortifruti.Application\\Commands\\CreateFruta\\CreateFrutaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:22:43.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrutaController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\SistemaHortifruti.API\\Controllers\\FrutaController.cs",
+              "RelativeDocumentMoniker": "SistemaHortifruti.API\\Controllers\\FrutaController.cs",
+              "ToolTip": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\SistemaHortifruti.API\\Controllers\\FrutaController.cs",
+              "RelativeToolTip": "SistemaHortifruti.API\\Controllers\\FrutaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:07:23.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\SistemaHortifruti.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaHortifruti.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\SistemaHortifruti.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaHortifruti.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:33:56.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUsuarioQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\SistemaHortifruti.Application\\Queries\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "RelativeDocumentMoniker": "SistemaHortifruti.Application\\Queries\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "ToolTip": "C:\\Projetos\\ProcessoSeletivo\\SistemaHortifruti\\SistemaHortifruti.Application\\Queries\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "RelativeToolTip": "SistemaHortifruti.Application\\Queries\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:19:04.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

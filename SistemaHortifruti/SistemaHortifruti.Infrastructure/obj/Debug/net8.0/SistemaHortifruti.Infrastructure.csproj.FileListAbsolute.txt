@@ -1,0 +1,17 @@
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\bin\Debug\net8.0\SistemaHortifruti.Infrastructure.deps.json
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\bin\Debug\net8.0\SistemaHortifruti.Infrastructure.runtimeconfig.json
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\bin\Debug\net8.0\SistemaHortifruti.Infrastructure.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\bin\Debug\net8.0\SistemaHortifruti.Infrastructure.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\bin\Debug\net8.0\SistemaHortifruti.Core.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\bin\Debug\net8.0\SistemaHortifruti.Core.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaHortifruti.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaHortifruti.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaHortifruti.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaHortifruti.Infrastructure.AssemblyInfo.cs
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaHortifruti.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaH.1F92A802.Up2Date
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaHortifruti.Infrastructure.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\refint\SistemaHortifruti.Infrastructure.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaHortifruti.Infrastructure.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\SistemaHortifruti.Infrastructure.genruntimeconfig.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Infrastructure\obj\Debug\net8.0\ref\SistemaHortifruti.Infrastructure.dll

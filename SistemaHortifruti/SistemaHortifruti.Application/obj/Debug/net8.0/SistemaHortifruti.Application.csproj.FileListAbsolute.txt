@@ -1,0 +1,17 @@
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\bin\Debug\net8.0\SistemaHortifruti.Application.deps.json
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\bin\Debug\net8.0\SistemaHortifruti.Application.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\bin\Debug\net8.0\SistemaHortifruti.Application.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\bin\Debug\net8.0\SistemaHortifruti.Core.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\bin\Debug\net8.0\SistemaHortifruti.Infrastructure.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\bin\Debug\net8.0\SistemaHortifruti.Core.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\bin\Debug\net8.0\SistemaHortifruti.Infrastructure.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\SistemaHortifruti.Application.csproj.AssemblyReference.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\SistemaHortifruti.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\SistemaHortifruti.Application.AssemblyInfoInputs.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\SistemaHortifruti.Application.AssemblyInfo.cs
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\SistemaHortifruti.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\SistemaH.0E5E15E5.Up2Date
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\SistemaHortifruti.Application.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\refint\SistemaHortifruti.Application.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\SistemaHortifruti.Application.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Application\obj\Debug\net8.0\ref\SistemaHortifruti.Application.dll

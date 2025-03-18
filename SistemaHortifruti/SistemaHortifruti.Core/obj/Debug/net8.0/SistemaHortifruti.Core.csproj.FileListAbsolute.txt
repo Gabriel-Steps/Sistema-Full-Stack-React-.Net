@@ -1,0 +1,11 @@
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\bin\Debug\net8.0\SistemaHortifruti.Core.deps.json
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\bin\Debug\net8.0\SistemaHortifruti.Core.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\bin\Debug\net8.0\SistemaHortifruti.Core.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\obj\Debug\net8.0\SistemaHortifruti.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\obj\Debug\net8.0\SistemaHortifruti.Core.AssemblyInfoInputs.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\obj\Debug\net8.0\SistemaHortifruti.Core.AssemblyInfo.cs
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\obj\Debug\net8.0\SistemaHortifruti.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\obj\Debug\net8.0\SistemaHortifruti.Core.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\obj\Debug\net8.0\refint\SistemaHortifruti.Core.dll
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\obj\Debug\net8.0\SistemaHortifruti.Core.pdb
+C:\Projetos\ProcessoSeletivo\SistemaHortifruti\SistemaHortifruti.Core\obj\Debug\net8.0\ref\SistemaHortifruti.Core.dll

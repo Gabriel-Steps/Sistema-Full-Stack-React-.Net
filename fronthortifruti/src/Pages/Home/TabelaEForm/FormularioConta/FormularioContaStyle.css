@@ -1,0 +1,70 @@
+.containerFormDescricaoFruta{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #00000025;
+
+    label{
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 0.1rem;
+        margin-bottom: 5px;
+    }
+
+    input[type="text"]{
+        width: 90%;
+        padding: 10px;
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+}
+
+.containerFormDescricaoFruta[visivel="invisivel"]{
+    display: none;
+}
+.containerFormDescricaoFruta[visivel="visivel"]{
+    display: flex;
+}
+
+.containerButtonConta{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+
+    button{
+        border-radius: 1px;
+    }
+}
+
+.containerFormDescricaoFrutaCriar{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #00000025;
+
+    *{
+        margin-bottom: 10px;
+    }
+
+    label{
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 0.1rem;
+    }
+
+    input[type="text"],input[type="number"]{
+        width: 90%;
+        padding: 10px;
+        font-size: 15px;
+    }
+}
